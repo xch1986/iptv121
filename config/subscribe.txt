@@ -2,7 +2,7 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-https://iptv.catvod.com/list.php?token=5e0f38855a0d473a3c9fe57e580bc1cc3771b33719d1d3c700d12450daf164f0
+# https://iptv.catvod.com/list.php?token=5e0f38855a0d473a3c9fe57e580bc1cc3771b33719d1d3c700d12450daf164f0
 
 # https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 #https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
