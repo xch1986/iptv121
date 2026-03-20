@@ -14,7 +14,7 @@ https://iptv.catvod.com/list.php?token=5e0f38855a0d473a3c9fe57e580bc1cc3771b3371
 #https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 # https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 #https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
+#https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
 #govin
 #https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 #https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
