@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 
 #zwc456baby
-https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u
+# https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u
 
 #hujingguang
 https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
