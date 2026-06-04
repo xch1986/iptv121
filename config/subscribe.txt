@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
 https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
 # https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
-http://gh.qninq.cn/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+# http://gh.qninq.cn/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 
 #vbskycn
 https://live.zbds.org/tv/iptv4.m3u
