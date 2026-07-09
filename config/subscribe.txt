@@ -71,7 +71,7 @@ https://peterhchina.github.io/iptv/CNTV-V6.m3u
 https://peterhchina.github.io/iptv/CCTV-V6.m3u
 
 #suxuang
-https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+# https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 
 
 
